@@ -1,1 +1,0 @@
-# jztroi.github.io
