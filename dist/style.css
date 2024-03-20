@@ -40,7 +40,7 @@ body {
     width: 250px;
     padding: 10px 3px;
     z-index: 1;
-    background: var(--sidebar-color);
+    background: white;
     transition: var(--tran-05);
     z-index: 100;
 }
