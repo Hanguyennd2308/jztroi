@@ -1,5 +1,10 @@
 {
-  "name": "ggfirebase",
+  "browser": {
+    "fs": false,
+    "os": false,
+    "path": false
+  },
+  "name": "nurse-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,10 +16,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^5.90.3",
+    "webpack": "^5.91.0",
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
-    "firebase": "^10.9.0"
+    "@firebase/logger": "^0.4.1",
+    "firebase": "^10.10.0"
   }
 }
